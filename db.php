@@ -1,5 +1,5 @@
 <?php
 
-echo 'DB Config';
+echo 'DB Config localhost';
 
 ?>
